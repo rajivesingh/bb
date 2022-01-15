@@ -1,0 +1,59 @@
+.main-div{
+    padding: 1rem;
+}
+.pt2{
+    margin-top: 0.4rem;
+    margin-bottom: 1.4rem;
+    color: blueviolet;
+}
+.u{
+    margin-top: 1.4rem;
+}
+.movments_row{
+    padding: 8px;
+    border-width:6px;
+    color:blueviolet ;
+    font-weight: 500;
+    border-left-style: ridge;
+    border-color: blueviolet;
+    background-color: rgba(137, 43, 226, 0.493);
+    border-top-left-radius:2rem ;
+    border-bottom-left-radius: 2rem;
+}
+.divinfo{
+    padding-left: 2.6rem;
+    font-size: large;
+}
+
+.searchbt{
+    border-radius: 13rem;
+}
+.card{
+    
+    background-color:rgba(137, 43, 226, 0.493);
+    border-radius: 1rem;
+  
+}
+.card-text{
+    font-size: large;
+    font-weight: 500;
+    color: blueviolet;
+}
+.Outerdiv{
+    opacity: 0;
+}
+.Totalbal{
+    margin-top: 0.4rem;
+    margin-bottom: 1.4rem;
+}
+.tranfermoney{
+    margin-top: 0.4rem;
+    margin-bottom: 1.4rem;
+}
+.CloseAccount{
+    margin-bottom: 1.4rem;
+}
+.Requestloan{
+    margin-top: 0.4rem;
+    margin-bottom: 1.4rem;
+}
